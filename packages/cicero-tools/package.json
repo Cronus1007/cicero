@@ -1,6 +1,6 @@
 {
   "name": "@accordproject/cicero-tools",
-  "version": "0.22.0-alpha.7",
+  "version": "0.22.0",
   "description": "Cicero Tools",
   "engines": {
     "node": ">=12",
@@ -56,8 +56,8 @@
     "webpack-cli": "^3.3.5"
   },
   "dependencies": {
-    "@accordproject/concerto-core": "1.0.0-alpha.9",
-    "@accordproject/concerto-tools": "1.0.0-alpha.9"
+    "@accordproject/concerto-core": "1.0.0",
+    "@accordproject/concerto-tools": "1.0.0"
   },
   "license-check-config": {
     "src": [
